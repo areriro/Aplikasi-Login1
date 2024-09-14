@@ -5,8 +5,9 @@
  * Gunakan fungsi showPopUp() untuk menampilkan pop up error
  */
 
-const loginFormElement = document.querySelector('#loginForm');
-const inputEmailElement = document.querySelector('#inputEmail');
+const loginFormElement = document.querySelector('#loginForm'); //yaudah
+const inputEmailElement = document.querySelector('#inputEmail'); /* intinya mah
+bikin comment gt dah */
 const inputPasswordElement = document.querySelector('#inputPassword');
 
 const expectedEmail = 'admin@dicoding.com';
